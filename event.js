@@ -1,4 +1,3 @@
-// https://www.dofactory.com/html/object/class
 /* 
 
 Mandatory fields 
@@ -58,3 +57,6 @@ class Event{
     });
     document.querySelector('#event').innerHTML = html;
   });
+
+// https://www.dofactory.com/html/object/class - helpful link
+//https://github.com/Techtonica/curriculum/blob/main/javascript/first-js-oop-project.md 
